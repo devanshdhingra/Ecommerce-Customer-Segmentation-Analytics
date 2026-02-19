@@ -91,6 +91,14 @@ Built an interactive dashboard showing:
 
 ---
 
+## 📁 Dataset
+
+Note: Due to GitHub file size limitations, a sample dataset is provided in this repository.
+
+The complete dataset used for this analysis can be shared upon request.
+
+---
+
 ## 📊 Key Business Insights
 
 - High-value customers contribute the majority of revenue
@@ -107,3 +115,20 @@ Built an interactive dashboard showing:
 ---
 
 ## 📁 Repository Structure
+Ecommerce-Customer-Segmentation-Analytics/
+│── data/
+│── notebooks/
+│── sql/
+│── dashboard/
+│── README.md
+
+---
+
+## 👨‍💻 Author
+
+**Devansh Dhingra**  
+Aspiring Data Analyst | Python | SQL | Tableau | Excel
+
+---
+
+⭐ If you like this project, consider giving it a star on GitHub!
