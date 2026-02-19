@@ -102,7 +102,7 @@ Built an interactive dashboard showing:
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard](tableau%20dashboardashboard.png)
+![Dashboard](tableau%20dashboard/dashboard.png)
 
 ---
 
